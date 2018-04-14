@@ -12,7 +12,7 @@
 <img width="280"  align="left"  src="https://github.com/LZXIrons/appshop/raw/master/screenshots/列表页.jpg"/>
 <img width="280"  align="left"  src="https://github.com/LZXIrons/appshop/raw/master/screenshots/产品详情页.jpg"/>
 <img width="280"  align="left"  src="https://github.com/LZXIrons/appshop/raw/master/screenshots/登陆中心.jpg"/>
-
+<br>
 ## Build Setup
 
 ``` bash

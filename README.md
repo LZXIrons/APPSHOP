@@ -9,27 +9,29 @@
 <img width="365"  height="619" src="https://github.com/LZXIrons/appshop/raw/master/screenshots/分类页.jpg"/>
 </div>
 
-<div algin="center">
-<img width="365"  height="619"  src="https://github.com/LZXIrons/appshop/raw/master/screenshots/首页.jpg"/>
-<img width="365"  height="619" src="https://github.com/LZXIrons/appshop/raw/master/screenshots/分类页.jpg"/>
-</div>
-
 ### 购物车与用户中心页
+
+<div algin="center">
 
 <img width="365"  height="619" src="https://github.com/LZXIrons/appshop/raw/master/screenshots/购物车页.jpg"/>
 <img width="365"  height="619" src="https://github.com/LZXIrons/appshop/raw/master/screenshots/用户中心.jpg"/>
+</div>
 
 ### 品牌页与列表页
-
-
+<div algin="center">
 <img width="365"  height="619" src="https://github.com/LZXIrons/appshop/raw/master/screenshots/品牌页.jpg"/>
 <img width="365"  height="619" src="https://github.com/LZXIrons/appshop/raw/master/screenshots/列表页.jpg"/>
 
+</div>
+
+
 ### 产品详情与登陆中心
-
-
+<div algin="center">
 <img width="365"  height="619" src="https://github.com/LZXIrons/appshop/raw/master/screenshots/产品详情页.jpg"/>
 <img width="365"  height="619" src="https://github.com/LZXIrons/appshop/raw/master/screenshots/登陆中心.jpg"/>
+
+</div>
+
 
 
 ## Build Setup

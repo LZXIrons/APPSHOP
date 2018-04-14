@@ -1,0 +1,10 @@
+
+export const _SHOPPING='_SHOPPING'
+export const _ShopRes='_ShopRes'
+export const DETAILS_INFO='DETAILS_INFO'
+export const CARTLIST='CARTLIST'
+export const SHOPLIST='SHOPLIST'
+export const AddCart='AddCart'
+export const ReduceCart='ReduceCart'
+export const DeleteGoods='DeleteGoods'
+export const CHANCENUM='CHANCENUM'

@@ -1,0 +1,39 @@
+// 将键绑定放入此文件中以覆盖默认值
+[
+    // ctrl+d 删除当前行
+    {
+        "key": "ctrl+d",
+        "command": "editor.action.deleteLines",
+        "when": "editorTextFocus && !editorReadonly"
+    },
+    // ctrl+shift+v 复制当前行到下一行
+    {
+        "key": "ctrl+shift+c",
+        "command": "editor.action.copyLinesDownAction",
+        "when": "editorTextFocus && !editorReadonly"
+    },
+    // ctrl+shift+f 格式化代码
+    {
+        "key": "ctrl+shift+f",
+        "command": "editor.action.formatDocument",
+        "when": "editorHasDocumentFormattingProvider && editorTextFocus && !editorReadonly"
+    },
+    // alt+/ 代码提示
+    {
+        "key": "alt+/",
+        "command": "editor.action.triggerSuggest",
+        "when": "editorTextFocus"
+    },
+    // ctrl+shift+/ 多行注释
+    {
+        "key": "ctrl+shift+/",
+        "command": "editor.action.blockComment",
+        "when": "editorTextFocus"
+    },
+    //	光标跳转到行头
+    {
+        "key": "ctrl+`",
+        "command": "cursorHome",
+        "when": "editorTextFocus"
+    }
+]

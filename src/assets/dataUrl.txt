@@ -1,0 +1,29 @@
+<!--主页-->
+//首页
+轮播图：	http://huanqiuxiaozhen.com/wemall/slider/list
+
+主题：		http://huanqiuxiaozhen.com/wemall/venues/venuesList
+
+
+首页推荐	http://huanqiuxiaozhen.com/wemall/goods/choiceList
+
+
+//列表页
+list:		http://www.huanqiuxiaozhen.com/wemall/goods/inqGoodsByTypeBrand?brand=' + options.brand + "&typeid=" + options.typeid
+
+
+//详情页
+Detail:		http://huanqiuxiaozhen.com/wemall/goods/inqgoods?id=' + options.id	
+
+
+												
+<!--分类页-->		
+classify:		http://huanqiuxiaozhen.com/wemall/goodstype/typebrandList
+
+//品牌页		
+http://www.huanqiuxiaozhen.com/wemall/venues/getBrandAndType?id=' + options.id
+
+//分类列表
+http://www.huanqiuxiaozhen.com/wemall/goods/goodsList?goodstype='tree.nodes[].id'&p=2
+
+跳转顺序：首页=》品牌页=》列表页=》详情页》

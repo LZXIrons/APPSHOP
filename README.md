@@ -1,6 +1,7 @@
 
 
 [在线DEMO](https://lzxirons.github.io/vue/)
+因为服务器原因，DEMO数据只演示MOKE的数据，具体详情可克隆项目的按照下面方法运行。
 ## Build Setup
 
 ``` bash

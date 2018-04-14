@@ -1,0 +1,106 @@
+{
+    "code": 0,
+    "msg": null,
+    "data": [
+      {
+        "id": 25,
+        "name": "宝宝奶粉",
+        "slogan": "",
+        "smallpic": "http://image.huanqiuxiaozhen.com/%E4%B8%BB%E9%A2%98%E9%A6%86%E5%9B%BE/2017_5_16_1494917892270",
+        "bigpic": "http://image.huanqiuxiaozhen.com/%E4%B8%BB%E9%A2%98%E9%A6%86banner/2017_5_22_1495442738612",
+        "typeid": 1,
+        "rid": 13,
+        "parentdesc": "宝宝奶粉"
+      },
+      {
+        "id": 26,
+        "name": "纸尿裤",
+        "slogan": "",
+        "smallpic": "http://image.huanqiuxiaozhen.com/%E4%B8%BB%E9%A2%98%E9%A6%86%E5%9B%BE/2017_5_16_1494917926060",
+        "bigpic": "http://image.huanqiuxiaozhen.com/%E4%B8%BB%E9%A2%98%E9%A6%86banner/2017_5_23_1495523679754",
+        "typeid": 2,
+        "rid": 14,
+        "parentdesc": "纸尿裤"
+      },
+      {
+        "id": 27,
+        "name": "辅食营养",
+        "slogan": "",
+        "smallpic": "http://image.huanqiuxiaozhen.com/%E4%B8%BB%E9%A2%98%E9%A6%86%E5%9B%BE/2017_5_16_1494926657165",
+        "bigpic": "http://image.huanqiuxiaozhen.com/%E4%B8%BB%E9%A2%98%E9%A6%86banner%2F%E8%BE%85%E9%A3%9F%E8%90%A5%E5%85%BB.jpg",
+        "typeid": 3,
+        "rid": 15,
+        "parentdesc": "辅食营养"
+      },
+      {
+        "id": 28,
+        "name": "母婴专区",
+        "slogan": "",
+        "smallpic": "http://image.huanqiuxiaozhen.com/%E4%B8%BB%E9%A2%98%E9%A6%86%E5%9B%BE/2017_5_16_1494926955020",
+        "bigpic": "http://image.huanqiuxiaozhen.com/%E4%B8%BB%E9%A2%98%E9%A6%86banner%2F%E6%AF%8D%E5%A9%B4%E4%B8%93%E5%8C%BA.jpg",
+        "typeid": 4,
+        "rid": 16,
+        "parentdesc": "母婴专区"
+      },
+      {
+        "id": 29,
+        "name": "护肤美体",
+        "slogan": "",
+        "smallpic": "http://image.huanqiuxiaozhen.com/%E4%B8%BB%E9%A2%98%E9%A6%86%E5%9B%BE/2017_5_16_1494918074908",
+        "bigpic": "http://image.huanqiuxiaozhen.com/%E4%B8%BB%E9%A2%98%E9%A6%86banner%2F%E7%BE%8E%E5%A6%86.jpg",
+        "typeid": 5,
+        "rid": 17,
+        "parentdesc": "护肤美体"
+      },
+      {
+        "id": 30,
+        "name": "营养保健",
+        "slogan": "",
+        "smallpic": "http://image.huanqiuxiaozhen.com/%E4%B8%BB%E9%A2%98%E9%A6%86%E5%9B%BE/2017_5_16_1494918103781",
+        "bigpic": "http://image.huanqiuxiaozhen.com/%E4%B8%BB%E9%A2%98%E9%A6%86banner%2F%E8%90%A5%E5%85%BB%E4%BF%9D%E5%81%A5.jpg",
+        "typeid": 6,
+        "rid": 18,
+        "parentdesc": "营养保健"
+      },
+      {
+        "id": 31,
+        "name": "居家日用",
+        "slogan": "",
+        "smallpic": "http://image.huanqiuxiaozhen.com/%E4%B8%BB%E9%A2%98%E9%A6%86%E5%9B%BE/2017_5_16_1494918145717",
+        "bigpic": "http://image.huanqiuxiaozhen.com/%E4%B8%BB%E9%A2%98%E9%A6%86banner%2F%E5%B1%85%E5%AE%B6.jpg",
+        "typeid": 7,
+        "rid": 19,
+        "parentdesc": "居家日用"
+      },
+      {
+        "id": 32,
+        "name": "进口美食",
+        "slogan": "",
+        "smallpic": "http://image.huanqiuxiaozhen.com/%E4%B8%BB%E9%A2%98%E9%A6%86%E5%9B%BE/2017_5_16_1494926788254",
+        "bigpic": "http://image.huanqiuxiaozhen.com/%E4%B8%BB%E9%A2%98%E9%A6%86banner%2F%E8%BF%9B%E5%8F%A3%E7%BE%8E%E9%A3%9F.jpg",
+        "typeid": 8,
+        "rid": 20,
+        "parentdesc": "进口美食"
+      },
+      {
+        "id": 33,
+        "name": "香港直邮",
+        "slogan": "",
+        "smallpic": "http://image.huanqiuxiaozhen.com/%E4%B8%BB%E9%A2%98%E9%A6%86%E5%9B%BE/2017_5_16_1494926620046",
+        "bigpic": "http://image.huanqiuxiaozhen.com/%E4%B8%BB%E9%A2%98%E9%A6%86banner/2017_4_11_1491905656224",
+        "typeid": 9,
+        "rid": 21,
+        "parentdesc": "轻奢女装"
+      },
+      {
+        "id": 34,
+        "name": "服饰箱包",
+        "slogan": "",
+        "smallpic": "http://image.huanqiuxiaozhen.com/%E4%B8%BB%E9%A2%98%E9%A6%86%E5%9B%BE/2017_5_16_1494926633881",
+        "bigpic": "http://image.huanqiuxiaozhen.com/%E4%B8%BB%E9%A2%98%E9%A6%86banner/2017_4_11_1491905671498",
+        "typeid": 11,
+        "rid": 22,
+        "parentdesc": "时尚箱包"
+      }
+    ]
+  }

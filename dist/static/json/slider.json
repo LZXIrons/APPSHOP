@@ -1,0 +1,18 @@
+[
+    {
+      "id": 165,
+      "name": "",
+      "orders": 5,
+      "picurl": "http://image.huanqiuxiaozhen.com/%E7%84%A6%E7%82%B9%E5%9B%BE/2017_11_2_1509610582651",
+      "targeturl": "http://wx.huanqiuxiaozhen.com/type-list.html?goodstype=101",
+      "distributorid": "all"
+    },
+    {
+      "id": 162,
+      "name": "童年时光",
+      "orders": 3,
+      "picurl": "http://image.huanqiuxiaozhen.com/%E7%84%A6%E7%82%B9%E5%9B%BE/2017_10_7_1507368199357",
+      "targeturl": "http://wx.huanqiuxiaozhen.com/brand-list.html?brand=34&typeid=3",
+      "distributorid": "all"
+    }
+  ]
